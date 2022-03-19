@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://taylorho.github.io/sitemap.xml
+Host: https://taylorho.github.io
