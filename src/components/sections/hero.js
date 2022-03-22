@@ -64,13 +64,18 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        Sou formado em{' '}
+        <a
+          href="https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_computadores"
+          target="_blank"
+          rel="noreferrer">
+          Defesa Cibernética
         </a>
-        .
+        , crio sites, sistemas e aplicativos. Amo mostrar que todo sistema tem falhas de segurança e
+        estou trabalhando em um jogo que você pode acompanhar no{' '}
+        <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
+          Twitter.
+        </a>
       </p>
     </>
   );

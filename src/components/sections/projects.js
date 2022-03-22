@@ -263,7 +263,7 @@ const Projects = () => {
   };
 
   return (
-    <StyledProjectsSection>
+    <StyledProjectsSection id="contribute">
       <h2 ref={revealTitle}>Outros Projetos</h2>
 
       <Link className="archive-link" to="/archive" ref={revealArchiveLink}>
