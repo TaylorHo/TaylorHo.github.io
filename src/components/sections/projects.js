@@ -214,6 +214,8 @@ const Projects = () => {
     const { frontmatter, html } = node;
     const { github, external, title, tech } = frontmatter;
 
+    const otherLink = '#';
+
     return (
       <div className="project-inner">
         <header>
@@ -241,9 +243,13 @@ const Projects = () => {
           </div>
 
           <h3 className="project-title">
-            <a href={external} target="_blank" rel="noreferrer">
-              {title}
-            </a>
+            {external ? (
+              <a href={external} target="_blank" rel="noreferrer">
+                {title}
+              </a>
+            ) : (
+              <a href={otherLink}>{title}</a>
+            )}
           </h3>
 
           <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
