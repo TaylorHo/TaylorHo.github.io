@@ -268,7 +268,9 @@ const Menu = () => {
 
             <a
               href="https://drive.google.com/file/d/1wpGsOTI08citBBdOelL-pZDXUtiJ96So/view?usp=sharing"
-              className="resume-link">
+              className="resume-link"
+              target="_blank"
+              rel="noopener noreferrer">
               Currículo
             </a>
           </nav>
