@@ -266,8 +266,10 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="#contact" className="resume-link">
-              Contato
+            <a
+              href="https://drive.google.com/file/d/1wpGsOTI08citBBdOelL-pZDXUtiJ96So/view?usp=sharing"
+              className="resume-link">
+              Currículo
             </a>
           </nav>
         </StyledSidebar>

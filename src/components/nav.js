@@ -173,8 +173,10 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="#contact">
-      Contato
+    <a
+      className="resume-button"
+      href="https://drive.google.com/file/d/1wpGsOTI08citBBdOelL-pZDXUtiJ96So/view?usp=sharing">
+      Currículo
     </a>
   );
 
