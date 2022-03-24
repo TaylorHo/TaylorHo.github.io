@@ -2,6 +2,7 @@ export { default as IconAppStore } from './appstore';
 export { default as IconBookmark } from './bookmark';
 export { default as IconCodepen } from './codepen';
 export { default as IconExternal } from './external';
+export { default as IconEmail } from './email';
 export { default as IconFolder } from './folder';
 export { default as IconFork } from './fork';
 export { default as Icon } from './icon';

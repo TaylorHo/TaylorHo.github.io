@@ -14,6 +14,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/hoffxhoff',
     },
+    {
+      name: 'Email',
+      url: 'mailto:taylorho.ta@gmail.com',
+    },
   ],
 
   navLinks: [
