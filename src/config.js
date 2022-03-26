@@ -15,6 +15,10 @@ module.exports = {
       url: 'https://twitter.com/hoffxhoff',
     },
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/taylor-hoffmann-696820235/',
+    },
+    {
       name: 'Email',
       url: 'mailto:taylorho.ta@gmail.com',
     },
