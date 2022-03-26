@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Flutter Dependency Checker/Updater'
+title: 'Flutter Dependency Updater'
 cover: './demo.png'
 github: 'https://github.com/TaylorHo/flutter-package-update-checker'
 external: 'https://github.com/TaylorHo/flutter-package-update-checker'
