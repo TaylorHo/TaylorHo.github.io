@@ -156,6 +156,11 @@ module.exports = {
         pluginConfig: {
           head: true,
         },
+        gtagConfig: {
+          send_page_view: true,
+        },
+        // set "gtagConfig.send_page_view = true;" manually
+        // in ./node_modules/gatsby-plugin-google-gtag/gatsby-ssr.js
       },
     },
   ],
