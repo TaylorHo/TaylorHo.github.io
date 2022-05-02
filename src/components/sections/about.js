@@ -145,7 +145,7 @@ const About = () => {
               Além de tecnologia e segurança, sempre fui apaixonado por jogos e atualmente estou
               trabalhando em um chamado{' '}
               <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
-                Shadow Tales
+                Abnormal World
               </a>
               . Inclusive tenho um{' '}
               <a
