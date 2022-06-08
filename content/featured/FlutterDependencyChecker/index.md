@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Flutter Dependency Updater'
 cover: './demo.png'
 github: 'https://github.com/TaylorHo/flutter-package-update-checker'

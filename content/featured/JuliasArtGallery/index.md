@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: "Julia's Art Gallery"
 cover: './cover.png'
 github: 'https://github.com/TaylorHo/art_gallery/'
