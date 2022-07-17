@@ -66,7 +66,13 @@ const Hero = () => {
       <p>
         Sou pesquisador em uma{' '}
         <a href="https://certi.org.br/index" target="_blank" rel="noreferrer">
-          fundação de pesquisa e desenvolvimento tecnológico
+          fundação de
+        </a>{' '}
+        <a href="https://certi.org.br/index" target="_blank" rel="noreferrer">
+          pesquisa e
+        </a>{' '}
+        <a href="https://certi.org.br/index" target="_blank" rel="noreferrer">
+          desenvolvimento tecnológico
         </a>
         , trabalhando no desenvolvimento de softwares. Além disso, sou formado em{' '}
         <a
