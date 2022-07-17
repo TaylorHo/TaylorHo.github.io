@@ -64,15 +64,19 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Sou formado em{' '}
+        Sou pesquisador em uma{' '}
+        <a href="https://certi.org.br/index" target="_blank" rel="noreferrer">
+          fundação de pesquisa e desenvolvimento tecnológico
+        </a>
+        , trabalhando no desenvolvimento de softwares. Além disso, sou formado em{' '}
         <a
           href="https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_computadores"
           target="_blank"
           rel="noreferrer">
           Defesa Cibernética
         </a>
-        , crio sites, sistemas e aplicativos. Amo mostrar que todo sistema tem falhas de segurança e
-        estou trabalhando em um jogo que você pode acompanhar no{' '}
+        , e amo mostrar que todo sistema tem falhas de segurança. Contribuo em diversos projetos de
+        código livre e atualmente estou trabalhando em um jogo que você pode acompanhar no{' '}
         <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
           Twitter.
         </a>

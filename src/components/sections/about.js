@@ -143,9 +143,9 @@ const About = () => {
 
             <p>
               Além de tecnologia e segurança, sempre fui apaixonado por jogos e atualmente estou
-              trabalhando em um chamado{' '}
+              trabalhando em dois, chamados{' '}
               <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
-                Abnormal World
+                <i>&lsquo;Abnormal World&rsquo;</i> e <i>&lsquo;A Reader Kitty&rsquo;</i>
               </a>
               . Inclusive tenho um{' '}
               <a
@@ -158,8 +158,8 @@ const About = () => {
             </p>
 
             <p>
-              Uma das principais atividades nas quais venho trabalhando é na automação de mensagens
-              do WhatsApp. Uma bela mão na roda para as empresas, hehe
+              Atualmente estou trabalhando como pesquisador, atuando na pesquisa e desenvolvimento
+              de softwares para o mercado tecnológico.
             </p>
 
             <p>Aqui estão algumas das tecnologias que mais gosto de utilizar:</p>
