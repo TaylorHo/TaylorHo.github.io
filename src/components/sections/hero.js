@@ -74,15 +74,14 @@ const Hero = () => {
         <a href="https://certi.org.br/index" target="_blank" rel="noreferrer">
           desenvolvimento tecnológico
         </a>
-        , trabalhando no desenvolvimento de softwares. Além disso, sou formado em{' '}
+        , trabalhando com desenvolvimento de softwares. Sou formado em{' '}
         <a
           href="https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_computadores"
           target="_blank"
           rel="noreferrer">
           Defesa Cibernética
         </a>
-        , e contribuo em diversos projetos de código livre. Atualmente estou trabalhando em um jogo
-        que você pode acompanhar no{' '}
+        , e contribuo em diversos projetos open source. Você pode ver mais do meu trabalho no{' '}
         <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
           Twitter.
         </a>
