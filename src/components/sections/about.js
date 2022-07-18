@@ -145,14 +145,32 @@ const About = () => {
               Além de tecnologia e segurança, sempre fui apaixonado por jogos e atualmente estou
               trabalhando em dois, chamados{' '}
               <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
-                <i>&lsquo;Abnormal World&rsquo;</i> e <i>&lsquo;A Reader Kitty&rsquo;</i>
+                <i>&ldquo;Abnormal World&rdquo;</i>
+              </a>{' '}
+              <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
+                e
+              </a>{' '}
+              <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
+                <i>&ldquo;A Reader Kitty&rdquo;</i>
               </a>
               . Inclusive tenho um{' '}
               <a
                 href="https://drive.google.com/file/d/18qv5Xk-Rk8Bhrt8PFR_yl39lLLINixgF/view"
                 target="_blank"
                 rel="noreferrer">
-                podcast sobre desenvolvimento de jogos
+                podcast sobre
+              </a>{' '}
+              <a
+                href="https://drive.google.com/file/d/18qv5Xk-Rk8Bhrt8PFR_yl39lLLINixgF/view"
+                target="_blank"
+                rel="noreferrer">
+                desenvolvimento
+              </a>{' '}
+              <a
+                href="https://drive.google.com/file/d/18qv5Xk-Rk8Bhrt8PFR_yl39lLLINixgF/view"
+                target="_blank"
+                rel="noreferrer">
+                de jogos
               </a>{' '}
               :)
             </p>

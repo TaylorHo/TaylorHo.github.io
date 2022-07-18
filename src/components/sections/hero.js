@@ -81,8 +81,8 @@ const Hero = () => {
           rel="noreferrer">
           Defesa Cibernética
         </a>
-        , e amo mostrar que todo sistema tem falhas de segurança. Contribuo em diversos projetos de
-        código livre e atualmente estou trabalhando em um jogo que você pode acompanhar no{' '}
+        , e contribuo em diversos projetos de código livre. Atualmente estou trabalhando em um jogo
+        que você pode acompanhar no{' '}
         <a href="https://twitter.com/hoffxhoff" target="_blank" rel="noreferrer">
           Twitter.
         </a>
